@@ -7,6 +7,6 @@ def countdown(number)
   x += 1
  
  x > 10
- puts 
+ puts "HAPPY NEW YEAR!"
 end
 end
