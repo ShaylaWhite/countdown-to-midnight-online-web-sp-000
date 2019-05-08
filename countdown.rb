@@ -6,5 +6,7 @@ def countdown(number)
   puts "#{number} SECOND(S)!" 
   x += 1
  
+ x > 10
+ puts 
 end
 end
