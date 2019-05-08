@@ -11,4 +11,6 @@ end
 def countdown_with_sleep(number)
   
 while countdown > 0
- puts 
+ puts sleep(0.2secs)
+   countdown -=1
+ end
